@@ -1,1 +1,3 @@
-# UTSC-CS-2025-NOTES \n \n B09 Labs from L03-L10
+# UTSC-CS-2025-NOTES
+
+# B09 - Software Tools: Linux, C
